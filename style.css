@@ -38,3 +38,10 @@
     height: 100vh;
 }
 
+#bgimg{
+  background-image: url(Images/h1-mad-arn-jtr-collage-hn.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 200vh;
+  
+}
