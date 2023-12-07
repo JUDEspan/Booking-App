@@ -39,9 +39,10 @@
 }
 
 #bgimg{
-  background-image: url(Images/h1-mad-arn-jtr-collage-hn.jpg);
+  background-image: url(Images/banner-bg.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   height: 200vh;
+  padding-top: 100px;
   
 }
